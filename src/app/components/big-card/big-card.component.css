@@ -1,0 +1,32 @@
+.contairner__big-card{
+    border: solid black 2px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 5px;
+    width: 750px;
+    height: 450px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.big-card__title > h1> a {
+   margin-top: 10px;
+    font-size: 20px;        
+    font-family: 'Segoe UI';
+    justify-content: center;
+    align-self: flex-start;
+    margin-left: 100px;  /* Espaço à esquerda */
+    margin-right: 30px; /* Espaço à direita */
+    
+}
+
+.big-card__photo > img{
+    
+    margin-left: 100px;  /* Espaço à esquerda */
+    margin-right: 30px;
+    border-radius: 10px;
+    
+
+}
