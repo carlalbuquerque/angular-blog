@@ -1,0 +1,34 @@
+.container__content{
+    border: 1px solid black;
+    width: 100%; /* altera largura borda*/
+    height: 100%; /*altera altura borda*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+
+.content__cover >img{
+    border: 5px solid black;
+     border-radius: 15px;
+     margin-bottom: 40px;
+    width: 850px;
+    min-width: 850px;
+    height: 550px;
+}
+
+.content_description{
+    margin-top: 20px;
+}
+
+.content_description > p {
+    font-family: "Type Machine";
+    font-weight: bold;
+    width: 80%; /* Define uma largura menor para o texto */
+    max-width: 750px; /* Limita a largura máxima */
+    margin: 50px auto; /* Centraliza horizontalmente */
+    text-align: center; /* Centraliza o texto dentro do container */
+
+}

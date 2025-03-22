@@ -19,7 +19,8 @@
 .container__descripcion > P {
     margin-bottom: 40px; /*espaço de baixo*/
     font-size: 20px;
-    font-family: 'Segoe UI';
+    font-family: "Type Machine";
+    font-weight: bold;
     display: flex;
     inline-size: auto;
     max-width: 60%; /* Quebra na metade do container */
