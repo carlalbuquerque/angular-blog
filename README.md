@@ -1,6 +1,13 @@
-# AngularBlog
+# Blog Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Este projeto foi gerado com o **Angular CLI** versão **14.1.2** e serve como uma aplicação de blog onde compartilho o conhecimento adquirido durante o aprendizado do Angular. Ao longo do desenvolvimento, foram explorados diversos conceitos do framework, como componentes, diretivas, serviços e RxJS.
+
+
+## Tecnologias Usadas
+
+- **Angular**: Framework principal para o desenvolvimento da aplicação.
+- **TypeScript**: Linguagem utilizada para desenvolvimento, garantindo tipagem estática e maior escalabilidade.
+- **HTML5 & CSS3**: Para a estrutura e estilização da aplicação.
 
 ## Development server
 
